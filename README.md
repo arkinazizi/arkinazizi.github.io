@@ -37,9 +37,9 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project Name        | Short Description                                      | Tech Used         | GitHub Link                                       |
 | ------------------- | ------------------------------------------------------ | ----------------- | ------------------------------------------------- |
-| **Project Alpha**   | A brief description of what this project is about.     | Python, Flask     | [Link](https://github.com/YOUR_USERNAME/project-alpha)   |
-| **Project Beta**    | Another cool project with a focus on web development.  | WordPress, PHP    | [Link](https://github.com/YOUR_USERNAME/project-beta)    |
-| **Project Gamma**   | An experimental project using AI/ML libraries.         | Python, TensorFlow| [Link](https://github.com/YOUR_USERNAME/project-gamma)   |
+| **Project Alpha**   | A brief description of what this project is about.     | Python, Flask     | [Link](https://github.com/arkinazizi/project-alpha)   |
+| **Project Beta**    | Another cool project with a focus on web development.  | WordPress, PHP    | [Link](https://github.com/arkinazizi/project-beta)    |
+| **Project Gamma**   | An experimental project using AI/ML libraries.         | Python, TensorFlow| [Link](https://github.com/arkinazizi/project-gamma)   |
 
 *Replace with your actual projects and links.*
 
@@ -72,16 +72,16 @@ You can find me on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/arkinazizi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajjad-Azizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/arkinazizi/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Azizi&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sajjad-Azizi">
+  <a href="https://github.com/arkinazizi">
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sajjad-Azizi&theme=github" />
   </a>
 </p>
