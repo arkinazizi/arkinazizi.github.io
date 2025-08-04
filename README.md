@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/arkinazizi">
-    <img src="https://avatars.githubusercontent.com/u/102329294?v=4" alt="Sajjad Azizi" width="150" height="150" style="border-radius:50%;">
+    <img src="https://avatars.githubusercontent.com/u/207826784?v=4" alt="Sajjad Azizi" width="150" height="150" style="border-radius:50%;">
   </a>
   <h1>Hi, I'm Sajjad Azizi 👋</h1>
   <p><b>Python Developer | WordPress Designer | AI & Forex Learner</b></p>
